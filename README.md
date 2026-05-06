@@ -1,6 +1,6 @@
 # Welcome 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=28&pause=1500&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+There!;I+am+Amol Hirve;Welcome+to+my+GitHub!" />
+### I am Amol Hirve. Welcome to my GitHub!
 
 ## 👨‍💻 About Me
 
